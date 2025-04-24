@@ -1,0 +1,9 @@
+
+	/*每个页面公共css */
+.bg{
+	background: 
+	    linear-gradient(to bottom,transparent ,#F2F2F4 600rpx),
+	    linear-gradient(to right ,#FBE4F8 20%,#DDF3FE );
+	    min-height: 100vh;
+}
+page{--status-bar-height:25px;--top-window-height:0px;--window-top:0px;--window-bottom:0px;--window-left:0px;--window-right:0px;--window-magin:0px}[data-c-h="true"]{display: none !important;}
